@@ -1,0 +1,16 @@
+PODS:
+  - ZHLCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - ZHLCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZHLCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHLCategoryKit: 4cdaebc7eb951349f2b85a32148a5184018c568c
+
+PODFILE CHECKSUM: af1db06c1c27d892302ca099d0483715b68fe7af
+
+COCOAPODS: 1.7.0

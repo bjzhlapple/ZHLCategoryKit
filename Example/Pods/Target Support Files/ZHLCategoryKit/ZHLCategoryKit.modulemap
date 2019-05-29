@@ -1,0 +1,6 @@
+framework module ZHLCategoryKit {
+  umbrella header "ZHLCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

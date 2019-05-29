@@ -1,0 +1,22 @@
+{
+  "name": "ZHLCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZHLCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shenyangyang@zhihuiliu.com/ZHLCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shenyangyang@zhihuiliu.com": "shenyangyang@zhihuiliu.com"
+  },
+  "source": {
+    "git": "https://github.com/shenyangyang@zhihuiliu.com/ZHLCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZHLCategoryKit/Classes/**/*"
+}
